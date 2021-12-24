@@ -1,8 +1,8 @@
 {
-  "name": "Yukki Music Bot",
-  "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
-  "repository": "https://github.com/NotReallyShikhar/YukkiMusicBot",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+  "name": "LOGI MUSIC BOT",
+  "description": "Make your own telegram music bot for stream music in group voice chat.",
+  "repository": "https://github.com/LOGI-LAP/music-player",
+  "logo": "https://tse1.mm.bing.net/th?id=OIP.nvH6O8DkAI7_RCJoeZOuKQHaEK&pid=Api&P=0&w=315&h=178",
   "keywords": [
   "python3",
   "telegram",
@@ -12,7 +12,7 @@
   "telegram-bot",
   "pyrogram"
   ],
-  "repository": "https://github.com/notreallyshikhar/YukkiMusicBot",
+  "repository": "https://github.com/LOGI-LAP/music-player",
   "stack": "container",
   "env": {
     "API_ID": {
