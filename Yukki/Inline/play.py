@@ -32,7 +32,7 @@ def url_markup(videoid, duration, user_id, query, query_type):
         ],
       [
           InlineKeyboardButton(
-                text="亗𝙆𝙄𝙉𝙂 ♥️",
+                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
                 url=f"https://t.me/cl_me_logesh",
             ),
         ],
@@ -54,7 +54,7 @@ def url_markup2(videoid, duration, user_id):
         ],
         [
           InlineKeyboardButton(
-                text="亗𝙆𝙄𝙉𝙂 ♥️",
+                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
                 url=f"https://t.me/cl_me_logesh",
             ),
         ],
@@ -181,7 +181,7 @@ def secondary_markup(videoid, user_id):
         ],
         [
           InlineKeyboardButton(
-                text="亗𝙆𝙄𝙉𝙂 ♥️",
+                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
                 url=f"https://t.me/cl_me_logesh",
             ),
         ],
@@ -214,7 +214,7 @@ def primary_markup(videoid, user_id, current_time, total_time):
         ],
         [
           InlineKeyboardButton(
-                text="亗𝙆𝙄𝙉𝙂 ♥️",
+                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
                 url=f"https://t.me/cl_me_logesh",
             ),
         ],
@@ -244,7 +244,7 @@ def timer_markup(videoid, user_id, current_time, total_time):
         ],
         [
           InlineKeyboardButton(
-                text="亗𝙆𝙄𝙉𝙂 ♥️",
+                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
                 url=f"https://t.me/cl_me_logesh",
             ),
         ],
@@ -272,7 +272,7 @@ def audio_markup(videoid, user_id, current_time, total_time):
         [InlineKeyboardButton(text="🗑 Close Menu", callback_data=f"close")],
         [
           InlineKeyboardButton(
-                text="亗𝙆𝙄𝙉𝙂 ♥️",
+                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
                 url=f"https://t.me/cl_me_logesh",
             ),
         ],
@@ -297,7 +297,7 @@ def audio_timer_markup_start(videoid, user_id, current_time, total_time):
         [InlineKeyboardButton(text="🗑 Close Menu", callback_data=f"close")],
         [
           InlineKeyboardButton(
-                text="亗𝙆𝙄𝙉𝙂 ♥️",
+                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
                 url=f"https://t.me/cl_me_logesh",
             ),
         ],
@@ -316,7 +316,7 @@ audio_markup2 = InlineKeyboardMarkup(
         [InlineKeyboardButton("🗑 Close Menu", callback_data="close")],
         [
           InlineKeyboardButton(
-                text="亗𝙆𝙄𝙉𝙂 ♥️",
+                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
                 url=f"https://t.me/cl_me_logesh",
             ),
         ],
