@@ -48,7 +48,7 @@
    Stay Up-to-Date
 </h2>
 
-<p align="center"><img src="https://telegra.ph/file/b8c210b031ec1b3deb012.jpg" alt="NotReallyShikhar Github" width="1000px" /></p>
+<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1c63d830343079.564a747651c89.jpg" alt="NotReallyShikhar Github" width="1000px" /></p>
 
 
 
