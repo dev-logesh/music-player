@@ -41,6 +41,12 @@ def others_markup(videoid, user_id):
                 callback_data=f"close",
             )
         ],
+        [
+          InlineKeyboardButton(
+                text="亗𝙆𝙄𝙉𝙂 ♥️",
+                url=f"https://t.me/cl_me_logesh",
+            ),
+        ],
     ]
     return buttons
 
@@ -62,6 +68,12 @@ def download_markup(videoid, user_id):
                 text="⬅️ Go Back", callback_data=f"goback {videoid}|{user_id}"
             ),
             InlineKeyboardButton(text="🗑 Close Menu", callback_data=f"close"),
+        ],
+        [
+          InlineKeyboardButton(
+                text="亗𝙆𝙄𝙉𝙂 ♥️",
+                url=f"https://t.me/cl_me_logesh",
+            ),
         ],
     ]
     return buttons
