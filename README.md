@@ -1,4 +1,4 @@
-<h1 align= center><b>⭐️ Yukki Music Bot ⭐️</b></h1>
+<h1 align= center><b>⭐️ LOGI MUSIC BOT ⭐️</b></h1>
 <h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
 
 <p align="center">
@@ -20,8 +20,8 @@
 
 <p align="center">
     A Support Group and ready-to-use running instance of this bot can be found on Telegram <br>
-    <a href="https://t.me/YukkiRobot"> YukkiMusicBot </a> |
-    <a href="https://t.me/OfficialYukkiSupport"> YukkiSupport </a>
+    <a href="https://t.me/NOPITA_MUSIC_BOT"> TRAILE BOT </a> |
+    <a href="https://t.me/LOGI_CHANNEL"> LOGI </a>
 </p>
 
 
@@ -30,7 +30,7 @@
 </h2>
 
 <p align="center">
-<a href="https://github.com/NotReallyShikhar/YukkiMusicBot/tree/Multi-Assistant"><img src="https://img.shields.io/badge/MULTI%20ASSISTANT%20MODE-blueviolet?style=for-the-badge" width="250""/</a>
+<a href="https://github.com/LOGI-LAP/video-music-player"><img src="https://img.shields.io/badge/VIDEO%20AND%20MUSIC IN ONE REPO-blueviolet?style=for-the-badge" width="250""/</a>
 </p>
     
 <h2 align="center">
@@ -48,7 +48,7 @@
    Stay Up-to-Date
 </h2>
 
-<p align="center"><img src="https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/Utils/star.gif" alt="NotReallyShikhar Github" width="1000px" /></p>
+<p align="center"><img src="https://telegra.ph/file/b8c210b031ec1b3deb012.jpg" alt="NotReallyShikhar Github" width="1000px" /></p>
 
 
 
@@ -58,8 +58,8 @@
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
-shikhar@MacBook~ $ cd YukkiMusicBot
+shikhar@MacBook~ $ git clone https://github.com/LOGI-LAP/music-bot
+shikhar@MacBook~ $ cd music-bot
 shikhar@MacBook~ $ pip3 install -U -r requirements.txt
 shikhar@MacBook~ $ cp sample.env .env
 ```
@@ -79,7 +79,7 @@ shikhar@MacBook~ $ bash start
 </h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NotReallyShikhar/YukkiMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/LOGI-LAP/music-bot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 </p>
 
@@ -96,8 +96,8 @@ shikhar@MacBook~ $ bash start
 </h3>
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
-shikhar@MacBook~ $ cd YukkiMusicBot
+shikhar@MacBook~ $ git clone https://github.com/LOGI-LAP/music-bot
+shikhar@MacBook~ $ cd music-bot
 shikhar@MacBook~ $ pip3 install pyrogram TgCrypto
 shikhar@MacBook~ $ python3 gen_session.py
 ```
@@ -127,9 +127,8 @@ shikhar@MacBook~ $ python3 gen_session.py
 </h2>
 
 <p align="center">
-<a href="https://t.me/OfficialYukki"><img src="https://img.shields.io/badge/Yukki%20Channel-blueviolet?style=for-the-badge&logo=telegram" width="200""/</a>
-<a href="https://t.me/NotReallyShikhar"><img src="https://img.shields.io/badge/Contact%20Owner-blueviolet?style=for-the-badge&logo=telegram" width="202""/</a>  
-<a href="https://t.me/OfficialYukkiSupport"><img src="https://img.shields.io/badge/Yukki%20Support-blueviolet?style=for-the-badge&logo=telegram" width="195""/></a>
+<a href="https://t.me/logi_channel"><img src="https://img.shields.io/badge/logi%20Channel-blueviolet?style=for-the-badge&logo=telegram" width="200""/</a>
+<a href="https://t.me/cl_me_logesh"><img src="https://img.shields.io/badge/Contact%20Owner-blueviolet?style=for-the-badge&logo=telegram" width="202""/</a>  
 </p>
 
 
@@ -146,3 +145,4 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 - [CallsMusic Team](https://github.com/Callsmusic)
 - [TheHamkerCat](https://github.com/TheHamkerCat)
+
