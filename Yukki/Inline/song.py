@@ -24,6 +24,12 @@ def song_markup(videoid, duration, user_id, query, query_type):
                 callback_data=f"forceclose {query}|{user_id}",
             )
         ],
+       [
+          InlineKeyboardButton(
+                text="亗𝙆𝙄𝙉𝙂 ♥️",
+                url=f"https://t.me/cl_me_logesh",
+            ),
+        ],
     ]
     return buttons
 
@@ -45,6 +51,12 @@ def song_download_markup(videoid, user_id):
                 text="🗑 Close Menu",
                 callback_data=f"forceclose {videoid}|{user_id}",
             )
+        ],
+       [
+          InlineKeyboardButton(
+                text="亗𝙆𝙄𝙉𝙂 ♥️",
+                url=f"https://t.me/cl_me_logesh",
+            ),
         ],
     ]
     return buttons
