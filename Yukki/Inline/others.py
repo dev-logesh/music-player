@@ -43,7 +43,7 @@ def others_markup(videoid, user_id):
         ],
         [
           InlineKeyboardButton(
-                text="亗𝙆𝙄𝙉𝙂 ♥️",
+                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
                 url=f"https://t.me/cl_me_logesh",
             ),
         ],
@@ -71,7 +71,7 @@ def download_markup(videoid, user_id):
         ],
         [
           InlineKeyboardButton(
-                text="亗𝙆𝙄𝙉𝙂 ♥️",
+                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
                 url=f"https://t.me/cl_me_logesh",
             ),
         ],
