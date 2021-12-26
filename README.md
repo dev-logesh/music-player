@@ -30,7 +30,7 @@
 </h2>
 
 <p align="center">
-<a href="https://github.com/LOGI-LAP/video-music-player"><img src="https://img.shields.io/badge/VIDEO%20AND%20MUSIC IN ONE REPO-blueviolet?style=for-the-badge" width="250""/</a>
+<a href="https://github.com/LOGI-LAP/music-video-streamer"><img src="https://img.shields.io/badge/VIDEO%20AND%20MUSIC IN ONE REPO-blueviolet?style=for-the-badge" width="250""/</a>
 </p>
     
 <h2 align="center">
